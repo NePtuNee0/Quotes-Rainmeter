@@ -13,7 +13,7 @@ Hi! I'm learning Python, and I've heard about web scraping, so I built this proj
 ![image](https://github.com/NePtuNee0/Quotes-Rainmeter/blob/7365e9206f78252e2c543d6051dd6115a30c44e0/image/3.png)
 
 4- Paste Quotes folder inside the Skins folder 
-![image]()
+![image](https://github.com/NePtuNee0/Quotes-Rainmeter/blob/4cf1db26f0fba8b37dbd63a6d6b5e758d49eb96d/image/4.png)
 
 
 5- Open Rainmeter locate Quotes folder (press refresh all if can't see it) and press load
