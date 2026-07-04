@@ -2,16 +2,16 @@ Hi! I'm learning Python, and I've heard about web scraping, so I built this proj
 
 # How to Download
 1- Locate downloader
-![image]([https://github.com...](https://github.com/NePtuNee0/Quotes-Rainmeter/blob/484d3ff480c8ce1339920c74bdbdc0fafe7bda3e/image/1.png))
+![image]([https://github.com...](https://github.com/NePtuNee0/Quotes-Rainmeter/blob/484d3ff480c8ce1339920c74bdbdc0fafe7bda3e/image/1.png)
 
 2- Copy Quotes folder 
-![image]([https://github.com...](https://github.com/NePtuNee0/Quotes-Rainmeter/blob/484d3ff480c8ce1339920c74bdbdc0fafe7bda3e/image/2.png))
+![image]([https://github.com...](https://github.com/NePtuNee0/Quotes-Rainmeter/blob/484d3ff480c8ce1339920c74bdbdc0fafe7bda3e/image/2.png)
 
 2- Go to Documents and locate rainmeter folder and  open it
-![image]([https://github.com...](https://github.com/NePtuNee0/Quotes-Rainmeter/blob/484d3ff480c8ce1339920c74bdbdc0fafe7bda3e/image/3.png))
+![image]([https://github.com...](https://github.com/NePtuNee0/Quotes-Rainmeter/blob/484d3ff480c8ce1339920c74bdbdc0fafe7bda3e/image/3.png)
 
 3- Past Quotes folder inside the Skins folder 
-![image]([https://github.com...](https://github.com/NePtuNee0/Quotes-Rainmeter/blob/484d3ff480c8ce1339920c74bdbdc0fafe7bda3e/image/4.png))
+![image]([https://github.com...](https://github.com/NePtuNee0/Quotes-Rainmeter/blob/484d3ff480c8ce1339920c74bdbdc0fafe7bda3e/image/4.png)
 
 4- Open Rainmeter locate Quates folder (press refresh all if can't see it) and press load
 ![image](https://github.com/NePtuNee0/Quotes-Rainmeter/blob/484d3ff480c8ce1339920c74bdbdc0fafe7bda3e/image/5.png)
